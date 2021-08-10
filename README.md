@@ -1,7 +1,7 @@
 ## ¡Hola, soy María! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ma.angeleslasa@gmail.com "Email")
-[![Linkedin Badge](https://img.shields.io/badge/-LinknedIn%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marialasa/ "LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-LinknedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marialasa/ "LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=condolasa "Follow on Twitter")
 
 <a href="https://samujjwaal.tech/"><img src="https://cdn-images-1.medium.com/max/126/1*CEe_RnDV4Uc92tSSfe5IYw@2x.png" align="right" height="200" /></a>
