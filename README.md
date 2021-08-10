@@ -8,7 +8,7 @@
 
 - 🇦🇷 Me gradué en Relaciones Internacionales en la Universidad Católica de Córdoba.
 - 🇬🇧 Hice un Master of Public Policy en la University of Oxford.
-- 🇮🇹 Recibí mi Ph.D. en la Università degli Studi di Camerino.
+- 🇮🇹 Recibí mi Ph.D. in Political Science en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
 - 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) & Universidad Torcuato Di Tella (🇦🇷).
 - 💼 Trabajo en Movilizatorio (🇨🇴).
