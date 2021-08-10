@@ -14,4 +14,7 @@
 - 💼 Trabajo en Movilizatorio (🇨🇴).
 - 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
+- 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
 - ☭ Más fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
+- 🎻 Toco violín desde que tengo cuatro años.
+- 🧬 El 2.6% de mi ADN es Neanderthal.
