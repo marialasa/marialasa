@@ -11,8 +11,7 @@
 - 🇮🇹 Recibí mi Ph.D. en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
 - 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) & Universidad Torcuato Di Tella (🇦🇷).
+- 💼 Trabajo en Movilizatorio (🇨🇴).
 - 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
-- ☭ Fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
-
+- 👾 Fanática de Lego, Tetris y Mario Bros.
+- ☭ Más fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
