@@ -10,9 +10,9 @@
 - 🇬🇧 Hice un Master of Public Policy en la University of Oxford.
 - 🇮🇹 Recibí mi Ph.D. en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
-- 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) y en la Universidad Torcuato Di Tella (🇦🇷).
+- 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) & Universidad Torcuato Di Tella (🇦🇷).
 - 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-samujjwaal-) above
+- ☭ Fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
