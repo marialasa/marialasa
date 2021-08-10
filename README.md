@@ -18,3 +18,4 @@
 - ☭ Más fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
 - 🎻 Toco violín desde que tengo cuatro años.
 - 🧬 El 2.6% de mi ADN es Neanderthal.
+- 📫 Más de mí en [marialasa.com](https://marialasa.com)
