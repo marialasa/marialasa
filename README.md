@@ -7,7 +7,7 @@
 <a href="http://marialasa.com"><img src="https://cdn-images-1.medium.com/max/126/1*CEe_RnDV4Uc92tSSfe5IYw@2x.png" align="right" height="200" /></a>
 
 - 🇦🇷 Me gradué en Relaciones Internacionales en la Universidad Católica de Córdoba.
-- 🇬🇧 Hice un Master of Public Policy en la University of Oxford.
+- 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
 - 🇮🇹 Recibí mi Ph.D. in Political Science en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
 - 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) & Universidad Torcuato Di Tella (🇦🇷).
@@ -15,7 +15,7 @@
 - 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
-- ☭ Más fanánica de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
+- ☭ Más fanática de la Guerra Fría, la Unión Soviética y la arquitectura brutalista.
 - 🎻 Toco violín desde que tengo cuatro años.
 - 📷 Fotógrafa [aficionada](https://marialasa.github.io/website/Las%20%C3%BAltimas%20fronteras%20del%20socialismo.pdf).
 - 🧬 El 2.6% de mi ADN es Neanderthal.
