@@ -10,8 +10,8 @@
 - 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
 - 🇮🇹 Recibí mi Ph.D. in Political Science en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
-- 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) & Universidad Torcuato Di Tella (🇦🇷).
-- 💼 Trabajo en Movilizatorio (🇨🇴).
+- 👩‍🏫 Soy docente en la Universidad Comunera (🇵🇾) y di clases en Universidad Torcuato Di Tella (🇦🇷).
+- 💼 Trabajo en los Juegos Panamericanos Santiago 2023 (🇨🇱) y soy consultora en Movilizatorio (🇨🇴).
 - 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
