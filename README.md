@@ -12,7 +12,7 @@
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
 - 👩‍🏫 Fui docente en UCOM (🇵🇾) & UTDT (🇦🇷). Soy docente en la UCC (🇦🇷).
 - 💼 Trabajo en Global Fund For Women (🇺🇸) y soy consultora en Movilizatorio (🇨🇴).
-- 🌐 Orgullosa integrante de RLadies Global, Red de Politólogas y el Grupo Joven del CARI.
+- 🌐 Orgullosa integrante de CADAL, R-Ladies Global, Red de Politólogas y el Grupo Joven del CARI.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
 - ☭ Más fanática del estudio de Corea del Norte, la Unión Soviética y la Guerra Fría.
