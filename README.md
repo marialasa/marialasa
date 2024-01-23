@@ -10,8 +10,8 @@
 - 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
 - 🇮🇹 Recibí mi PhD in Political Science en la Università degli Studi di Camerino.
 - 🏛️ Me especializo en políticas públicas, métodos y datos.
-- 👩‍🏫 Fui docente en UCOM (🇵🇾) & UTDT (🇦🇷).
-- 💼 Trabajo en Global Fund For Women (🇺🇸).
+- 👩‍🏫 Soy docente en UCOM (🇵🇾) y di clases en UTDT (🇦🇷).
+- 💼 Trabajo en el Laboratorio de Datos de Global Fund For Women (🇺🇸).
 - 🌐 Orgullosa integrante de CADAL, CARI, R-Ladies Global y la Red de Politólogas.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
