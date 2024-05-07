@@ -6,8 +6,8 @@
 
 <a href="http://marialasa.com"><img src="https://cdn-images-1.medium.com/max/126/1*CEe_RnDV4Uc92tSSfe5IYw@2x.png" align="right" height="200" /></a>
 
-* 🇦🇷 Estudié Relaciones Internacionales en la Universidad Católica de Córdoba.
-* 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
+. 🇦🇷 Estudié Relaciones Internacionales en la Universidad Católica de Córdoba.
+. 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
 - 🇮🇹 Me doctoré en Ciencia Política en la Università degli Studi di Camerino.
 - 📈 Me especializo en metodología, recolección, procesamiento y análisis de información estadística.
 - 👩‍🏫 Soy docente en UCOM (🇵🇾) y di clases en UTDT (🇦🇷).
