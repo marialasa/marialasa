@@ -1,4 +1,4 @@
-## ¡Hola, soy María Lasa! <span class="wave">👋</span>
+## ¡Hola, soy María Lasa! ![Waving Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ma.angeleslasa@gmail.com "Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marialasa/ "LinkedIn")
