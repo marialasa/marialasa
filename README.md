@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" height="20" alt="Waving Hand"> ¡Hola, soy María Lasa! 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="Waving Hand"> ¡Hola, soy María Lasa! 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ma.angeleslasa@gmail.com "Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marialasa/ "LinkedIn")
@@ -6,10 +6,10 @@
 
 <a href="http://marialasa.com"><img src="https://cdn-images-1.medium.com/max/126/1*CEe_RnDV4Uc92tSSfe5IYw@2x.png" align="right" height="200" /></a>
 
-- 🇦🇷 Me gradué en Relaciones Internacionales en la Universidad Católica de Córdoba.
+- 🇦🇷 Estudié Relaciones Internacionales en la Universidad Católica de Córdoba.
 - 🇬🇧 Hice un Master in Public Policy en la University of Oxford.
-- 🇮🇹 Recibí mi PhD in Political Science en la Università degli Studi di Camerino.
-- 🏛️ Me especializo en políticas públicas, métodos y datos.
+- 🇮🇹 Me doctoré en Ciencia Política en la Università degli Studi di Camerino.
+- 📈 Me especializo en metodología, recolección, procesamiento y análisis de información estadística.
 - 👩‍🏫 Soy docente en UCOM (🇵🇾) y di clases en UTDT (🇦🇷).
 - 💼 Trabajo en el Laboratorio de Datos de Global Fund For Women (🇺🇸).
 - 🌐 Orgullosa integrante de CADAL, CARI, R-Ladies Global y la Red de Politólogas.
