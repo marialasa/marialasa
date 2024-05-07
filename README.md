@@ -1,4 +1,4 @@
-## ¡Hola, soy María Lasa! 👋
+## ¡Hola, soy María Lasa! <span class="wave">👋</span>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ma.angeleslasa@gmail.com "Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marialasa/ "LinkedIn")
