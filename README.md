@@ -11,8 +11,8 @@
 - 🇮🇹 Me doctoré en Ciencia Política en la Università degli Studi di Camerino.
 - 📈 Me especializo en metodología, recolección, procesamiento y análisis de información estadística.
 - 👩‍🏫 Soy docente en UCOM (🇵🇾) y di clases en UTDT (🇦🇷).
-- 💼 Trabajo en el Laboratorio de Datos de Global Fund For Women (🇺🇸).
-- 🌐 Orgullosa integrante de CADAL, CARI, R-Ladies Global y la Red de Politólogas.
+- 💼 Lidero el Laboratorio de Datos de Global Fund For Women (🇺🇸).
+- 🌐 Orgullosa integrante de CADAL, R-Ladies Global y la Red de Politólogas.
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
 - ☭ Más fanática aún del estudio de Corea del Norte, la Unión Soviética y la Guerra Fría.
