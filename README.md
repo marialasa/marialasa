@@ -16,7 +16,7 @@
 - 👾 Fanática de Lego, Tetris y Mario Bros.
 - 🚀 Muy fanática de la NASA y la historia de la exploración espacial.
 - ☭ Más fanática aún del estudio de Corea del Norte, la Unión Soviética y la Guerra Fría.
-- 📚 En 2024, publiqué mi [primer libro]([https://marialasa.github.io/website/Las%20%C3%BAltimas%20fronteras%20del%20socialismo.pdf](https://www.cadal.org/libros/pdf/Pais-de-Vinalon.pdf)sobre mi viaje a Corea del Norte.
+- 📚 En 2024, publiqué mi [primer libro](https://www.cadal.org/libros/pdf/Pais-de-Vinalon.pdf) sobre mi viaje a Corea del Norte.
 - 🎻 Toco violín desde que tengo cuatro años.
 - 📷 Fotógrafa [aficionada](https://marialasa.github.io/website/Las%20%C3%BAltimas%20fronteras%20del%20socialismo.pdf).
 - 🧬 El 2.6% de mi ADN es Neanderthal.
